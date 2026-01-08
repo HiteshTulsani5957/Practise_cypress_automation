@@ -1,0 +1,24 @@
+{
+  "name": "practise_cypress_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiteshTulsani5957/Practise_cypress_automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HiteshTulsani5957/Practise_cypress_automation/issues"
+  },
+  "homepage": "https://github.com/HiteshTulsani5957/Practise_cypress_automation#readme",
+  "devDependencies": {
+    "cypress": "^15.8.2"
+  }
+}
