@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/HiteshTulsani5957/Practise_cypress_automation#readme",
   "devDependencies": {
-    "cypress": "^15.8.2"
+    "cypress": "^15.8.2",
+    "cypress-xpath": "^2.0.1"
   }
 }
