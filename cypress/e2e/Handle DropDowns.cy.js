@@ -16,9 +16,9 @@
 
 //   it("Dynamic Dropdown",()=>{
 //   cy.visit("https://www.google.com/")
-//     cy.get("#APjFqb").type("cypress automation")
+//     cy.get("#APjFqb").type("cypress automation")//this is search box element
 // cy.wait(3000)
-//     cy.get(".wM6W7d>span").each(($el,index,$list)=>{
+//     cy.get(".wM6W7d>span").each(($el,index,$list)=>{//this is made of seaching element inspect with class & >span
 // if($el.text()=='cypress automation testing')
 // {
 //   cy.wrap($el).click()
