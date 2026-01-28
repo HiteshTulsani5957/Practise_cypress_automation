@@ -1,5 +1,5 @@
 // /// <reference types="Cypress" />
-// describe("Handle dropdown",()=>{
+// describ"Handle(e dropdown",()=>{
 //     it("Dropdown with select",()=>{
 //     cy.visit("https://practice.expandtesting.com/dropdown")
 //     cy.get('[name="country"]').select("Germany").should("have.value","Germany")
