@@ -37,5 +37,5 @@ cy.get("div[class='example'] p").should("have.contains","Congratulations! You mu
 
 
 
-})
+}) 
 })
